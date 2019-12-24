@@ -12,7 +12,7 @@ public class HelloController {
     public String hello()
     {
 	    System.out.println("Edit by git bash");
-        System.out.println("Edit by IDEA master!");
+        System.out.println("Edit by IDEA master again!");
         return "hello!";
     }
 }
