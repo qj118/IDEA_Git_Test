@@ -13,6 +13,7 @@ public class HelloController {
     {
 	    System.out.println("Edit by git bash");
         System.out.println("Edit by IDEA master!");
+        System.out.println("Edit by IDEA hot_fix");
         return "hello!";
     }
 }
